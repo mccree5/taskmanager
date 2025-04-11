@@ -2,7 +2,7 @@
 
 # Task Management App
 
-This is a simple Task Management App built using React for the front end and Spring Boot for the backend. The app allows users to add, view, and delete tasks with details such as description, due date, and completion status.
+This is a Task Management App built using React for the front end and Spring Boot for the backend. The app allows users to add, view, and delete tasks with details such as description, due date, and completion status.
 
 ## Features
 
